@@ -8,6 +8,7 @@ for i in range(len(list1)-1):
     for j in range(len(list1)-i-1):
         # 每两个相邻位置对比大小，如果后一位比前一位小就交换位置
         if list1[j]>list1[j+1]:
+            
             list1[j],list1[j+1] = list1[j+1],list1[j]
-            print(list1)
+           # print(list1)
 print(list1)
