@@ -1,0 +1,15 @@
+gailun:
+    hp: 2000
+    power: 100
+    skill: 1.5
+zhaoxin:
+    hp: 2000
+    power: 150
+    skill: 1.2
+nuoke:
+    hp: 2000
+    power: 120
+    skill: 1.6
+default:
+   - zhaoxin
+   - nuoke
