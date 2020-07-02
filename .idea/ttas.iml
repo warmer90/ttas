@@ -7,6 +7,8 @@
     <orderEntry type="jdk" jdkName="Python 3.8 (ttas)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="selenium_demo1" />
+    <orderEntry type="module" module-name="picture" />
+    <orderEntry type="module" module-name="HTMLTestRunner_PY3-master" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
