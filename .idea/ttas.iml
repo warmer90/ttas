@@ -9,6 +9,7 @@
     <orderEntry type="module" module-name="selenium_demo1" />
     <orderEntry type="module" module-name="picture" />
     <orderEntry type="module" module-name="HTMLTestRunner_PY3-master" />
+    <orderEntry type="module" module-name="demo3" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
